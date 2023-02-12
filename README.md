@@ -27,7 +27,7 @@
 
 ### ❓ About Me :
 I am a Beginner Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</br>
-:zap: In my free time, I on and solve problems with code in Andrio Studio read articles about programming.</br>
+:zap: In my free time, I on and solve problems with code in Andrio Studio and Unity, read articles about programming.</br>
 :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dozopravka)
 
 ---
